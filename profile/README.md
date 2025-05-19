@@ -12,23 +12,10 @@ Berikut beberapa repositori utama dalam organisasi ini:
 
 | Proyek                                                              | Deskripsi                                                  | Status                 |
 | ------------------------------------------------------------------- | ---------------------------------------------------------- | ---------------------- |
-| [`nyandrive-web`](https://nyandrive.com/)                           | Aplikasi web utama Nyandrive         | ✅ Stabil |
-| [`nyandrive-api`](https://drive.nyanhosting.id/api-docs)            | Backend API untuk layanan cloud storage (Laravel API) | ✅ Stabil                  |
-| [`nyandrive-docs`](https://github.com/nyandrive/nyandrive-sdk)       | Docs resmi untuk integrasi dengan layanan Nyandrive         | ⚠️ Developing                |
-| [`nyandrive-mobile`](https://github.com/nyandrive/nyandrive-mobile) | Aplikasi mobile (Flutter)                                  | 📱 Coming Soon         |
-
-📚 Dokumentasi
-Semua dokumentasi teknis dan panduan penggunaan dapat ditemukan di dalam masing-masing repositori atau di situs resmi kami:
-
-🔗 Dokumentasi Pengembang
-🔗 API Reference
-
-🛠️ Teknologi yang Kami Gunakan
-Frontend: PHP, Wordpress
-
-Backend: Laravel API
-
-Mobile: Flutter
+| [`Nyandrive`](https://nyandrive.com/)                           | Aplikasi web utama Nyandrive         | ✅ Stabil |
+| [`Nyandrive API`](https://drive.nyanhosting.id/api-docs)            | Backend API untuk layanan cloud storage | ✅ Stabil                  |
+| [`Nyandrive Docs`](https://docs.nyandrive.com/)       | Docs resmi untuk integrasi dengan layanan Nyandrive         | ✅ Stabil                |
+| [`Nyandrive Mobile`] | Aplikasi Mobile                                  | ⚠️ Developing         |
 
 🤝 Kontribusi
 Kami menyambut kontribusi dari komunitas!
@@ -41,4 +28,4 @@ Baca CONTRIBUTING.md untuk memulai.
 📸 Instagram: @nyandrive
 
 ⭐ Dukung Kami
-Berikan ⭐ di repositori yang kamu sukai dan bantu kami menjadikan cloud storage lebih menyenangkan untuk semua!
+Berikan ⭐ di semua sosial media kami yang kamu sukai dan bantu kami menjadikan cloud storage lebih menyenangkan untuk semua!

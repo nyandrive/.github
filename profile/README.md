@@ -1,4 +1,4 @@
-<h1>🐱 Nyandrive Organization</h1>
+<h1>🐱 Nyandrive x ShelterData Organization</h1>
 Selamat datang di GitHub resmi Nyandrive.com!
 Kami adalah tim di balik Nyandrive, layanan cloud storage modern yang cepat, aman, dan mudah digunakan oleh semua orang.
 
@@ -16,6 +16,7 @@ Berikut beberapa repositori utama dalam organisasi ini:
 | [`Nyandrive API`](https://drive.nyanhosting.id/api-docs)            | Backend API untuk layanan cloud storage | ✅ Stabil                  |
 | [`Nyandrive Docs`](https://docs.nyandrive.com/)       | Docs resmi untuk integrasi dengan layanan Nyandrive         | ✅ Stabil                |
 | [`Nyandrive Mobile`] | Aplikasi Mobile                                  | ⚠️ Developing         |
+| [`Nyandrive Desktop`] | Aplikasi Desktop                                  | ⚠️ Developing         |
 
 🤝 Kontribusi
 Kami menyambut kontribusi dari komunitas!
